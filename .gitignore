@@ -1,0 +1,26 @@
+# Datasets and large binary assets (not tracked in this repo)
+*.csv
+*.zip
+*.tsv
+*.parquet
+
+# Game/media assets
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
